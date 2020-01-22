@@ -8,6 +8,7 @@ namespace ISM6225_VS2019_CSharp_Git_Demo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Change");
+            Console.WriteLine("Change again, so you know I did some of it in class");
         }
     }
 }
